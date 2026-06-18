@@ -2,23 +2,21 @@
 title: Demystifying Open Banking
 date: 2020-06-17 00:00:00 Z
 categories:
-- nbetts
 - Delivery
 tags:
 - Open
 - Banking
-- ","
-- Delivery,
-- FinTech,
-- Finance,
-- featured
-author: nbetts
-layout: default_post
-image: nbetts/assets/openbanking.jpg
+- ''
+- Delivery
+- FinTech
+- Finance
 summary: 'If you don’t work in finance or technology then the chances are, you may
   not have heard of Open Banking.  In this article I’ll explain more about Open Banking,
   my own experience of implementing an Open Banking API solution for a UK challenger
   bank, and a brief look at what''s coming next... '
+author: nbetts
+image: nbetts/assets/openbanking.jpg
+layout: default_post
 ---
 
 <img src="{{ site.baseurl }}/nbetts/assets/openbanking.jpg" alt="OpenBanking" width="100%"/>

@@ -2,7 +2,6 @@
 title: Can Web3 beat public cloud?
 date: 2022-10-31 08:39:00 Z
 categories:
-- ceberhardt
 - Tech
 tags:
 - featured
@@ -83,7 +82,9 @@ For my Web3 experiment, I wanted to pick a service that I already run on public 
 
 These days most blogs use static site generators, and as a result, they lack a conventional database. I wanted to add a feature to our blog that allows users to ‘clap’ for articles that they appreciate. In order to achieve this I built a simple service that connects a web component to an AWS-hosted back-end (using Lambda, API Gateway, DynamoDB) that tracks clap-counts for URLs:
 
-    <applause-button style="width: 58px; height: 58px;"/>
+<p class="social">
+<applause-button style="width:4rem; margin-inline:auto;"></applause-button>
+</p>
 
 I decided to both open source the project ([client code](https://github.com/ColinEberhardt/applause-button), [server code](https://github.com/ColinEberhardt/applause-button-server)), and provide a free hosted service. Applause Button is currently used by \~3,000 websites and records \~500,000 claps each year. To support the hosting, I run an [open collective](https://opencollective.com/applause-button), and have a handful of generous backers.
 

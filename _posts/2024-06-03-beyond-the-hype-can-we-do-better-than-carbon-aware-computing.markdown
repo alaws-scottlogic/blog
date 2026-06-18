@@ -12,6 +12,7 @@ tags:
 - sustainable software
 - technology sustainability
 - electricity grid
+- featured
 summary: In this episode, Oliver Cronk and David Rees from Scott Logic are joined
   by Hannah Smith, Director of Operations at Green Web Foundation, to explore the
   potential benefits and limitations of ‘carbon aware’ computing. With global emissions
@@ -19,6 +20,9 @@ summary: In this episode, Oliver Cronk and David Rees from Scott Logic are joine
   a distraction from getting to grips with the scale of the challenge we face?
 author: ceberhardt
 image: "/uploads/BeyondTheHype---green-and-yellow---episode-19---social.jpg"
+contributors:
+- ocronk
+- drees
 ---
 
 <iframe title="Embed Player" src="https://play.libsyn.com/embed/episode/id/31576132/height/192/theme/modern/size/large/thumbnail/yes/custom-color/ffffff/time-start/00:00:00/playlist-height/200/direction/backward/download/yes/font-color/252525" height="192" width="100%" scrolling="no" allowfullscreen="" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true" style="border: none;"></iframe>

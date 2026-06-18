@@ -2,9 +2,7 @@
 title: An EDGY approach to designing Enterprises
 date: 2022-11-15 09:44:00 Z
 categories:
-- ocronk
-- Tech
-- Open Source
+- Architecture
 tags:
 - design
 - architecture

@@ -2,7 +2,6 @@
 title: Tools for measuring Cloud Carbon Emissions
 date: 2023-10-19 00:00:00 Z
 categories:
-- dsmith
 - Sustainability
 - Cloud
 tags:
@@ -15,6 +14,8 @@ author: dsmith
 image: "/uploads/Tools%20for%20measuring%20cloud.png"
 layout: default_post
 ---
+
+> Note: this blog post is a bit out-of-date so I've published a [new version with some updates for 2025](../../../2025/05/20/tools-for-measuring-cloud-carbon-emissions-updated-for-2025.html).
 
 # Introduction
 
